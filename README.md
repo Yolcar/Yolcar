@@ -43,3 +43,11 @@ I have worked Frontend Angular and React. As for the backend, I mainly use .NET 
 ## What I'm currently learning 📚
 
 - FullStack in course with Guillermo Rodas.
+
+## Command most used
+|Comando        | Descripcion                       |
+|---------------|-----------------------------------|
+| npm run dev   | Start project mode development    |
+| npm install   | Install packages to project       |
+| clear         | Clear terminal                    |
+| cd            | Go to path                        |
